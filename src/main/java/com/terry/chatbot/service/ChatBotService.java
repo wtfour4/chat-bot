@@ -11,6 +11,8 @@ import java.net.Proxy;
 @Service
 public class ChatBotService {
 
+    //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 -- y9000p
+    //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 -- mba
     private static String key = "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";
 
     public String test(String question) {
